@@ -1,4 +1,5 @@
-
+//akcorakerem90@gmail.com
+//instagram @akcorakerem
 #include "U8glib.h"
 #include <SPI.h>
 
